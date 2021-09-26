@@ -1,7 +1,4 @@
-<div align="center" ></div>
-    <h1 style="line-height: 1.4;">Hello there! I am NiskyB </h1>
-    <img src="./giphy.gif" display="block" width="250">
-</div>
+<h1 align="center">Hello there! I am NiskyB <img src="./giphy.gif" width="80"></h1>
 
 <div align="center">
 
