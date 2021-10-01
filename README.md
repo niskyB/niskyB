@@ -2,7 +2,7 @@
 
 <h1 align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=niskyB&theme=radical)](https://git.io/streak-stats) zzz
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=niskyB&theme=radical)](https://git.io/streak-stats)
 
 </h1>
 
