@@ -3,6 +3,7 @@
 <h1 align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=niskyB&theme=radical)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiskyB&show_icons=true&theme=radical)
 
 </h1>
 
